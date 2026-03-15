@@ -1,5 +1,7 @@
 # UserAgent
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 This library detects if the user's device is an iOS device (iPhone, iPad, or iPod).
 
 ## Usage
