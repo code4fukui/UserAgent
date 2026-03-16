@@ -18,4 +18,4 @@ console.log(isIOS());
 
 ## License
 
-This project is released under the MIT License.
+MIT License — see [LICENSE](LICENSE).
